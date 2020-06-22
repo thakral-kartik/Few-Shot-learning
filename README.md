@@ -1,2 +1,2 @@
 # Few-Shot-learning
-Implementation of Few-shot learning using prototypical networks
+Implementation of Few-shot learning using Prototypical networks
